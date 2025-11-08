@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tiny Shakespeare Transformer 模型
 
 该项目实现了一个基于 Transformer 的字符级语言建模模型，使用 `Tiny Shakespeare` 数据集进行训练。项目包括训练脚本、消融实验脚本、结果分析以及文本生成等功能。
@@ -76,3 +77,7 @@ python3 scripts/run_analysis.sh
 1. **项目结构**：在 `README.md` 中，列出了项目的文件夹结构并对每个文件夹和文件的功能进行了详细说明。
 2. **使用方法**：描述了如何安装依赖、训练模型、运行消融实验和分析实验结果的命令。
 3. **消融实验与结果展示**：介绍了消融实验的功能，并说明了如何展示实验结果。
+=======
+# transformer-from-scratch
+大模型期中作业
+>>>>>>> da700cc35de334faefeecc39a65b6d5a447d1def
